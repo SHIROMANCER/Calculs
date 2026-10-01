@@ -33,7 +33,7 @@ namespace Calculs
                 switch (choix)
                 {
                     case "1": // addition
-                        
+                        //fault test iqwneqienqweiniwqeniwqeni
                         // saisie de la réponse
                         correct = false;
                         while (!correct)
